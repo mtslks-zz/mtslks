@@ -1,8 +1,14 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I am Mathias!</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Mathias</h2>
 
 
-<p>Welcome to my page! </br> I'm Mathias, Fullstack developer to be from Vienna, Austria.
+<p>Welcome to my Github portfolio! </br> I'm Mathias, Fullstack developer in training from Vienna, Austria.
 </p>
+
+- 🔭 I’m currently working on **becoming a Full Stack Developer**
+- 🌱 I’m currently learning **React.js**
+- 💬 Ask me about **anything**
+- 📫 How to reach me: Message me on <a href="https://linkedin.com/in/mathiaslukas">LinkedIn</a>
+- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 <h3>Things I code with</h3>
 <p>
