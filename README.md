@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on **becoming a Full Stack Developer**
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **JavaScript, Node.js, React.js**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: Message me on <a href="https://linkedin.com/in/mathiaslukas">LinkedIn</a>
 - ⚡ Fun fact: Big Fan of the :zap: emoji
