@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my Github portfolio! </p> 
-<p>I'm Mathias, Freelance Project Manager, Consultant and Web Developer based in **Vienna, Austria**
+<p>I'm Mathias, Freelance Project Manager, Consultant and Web Developer based in Vienna, Austria.
 </p>
 
 - 🌱 10+ years corporate background with focus on **Strategy, Project Management, Marketing, and Sales**
