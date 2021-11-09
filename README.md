@@ -1,16 +1,17 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Mathias</h2>
 
 
-<p>Welcome to my Github portfolio! </br> I'm Mathias, Fullstack developer in training from Vienna, Austria.
+<p>Welcome to my Github portfolio! </br> I'm Mathias, Freelance Project Manager, Consultant and Web Developer in training from Vienna, Austria.
 </p>
 
-- 🔭 I’m currently working on **becoming a Full Stack Developer**
-- 🌱 I’m currently learning **JavaScript, Node.js, React.js**
-- 💬 Ask me about **anything**
+- 🌱 10+ years corporate background with focus on Strategy, Project Management, Marketing, and Sales
+- 🚀 3+ years startup experience
+- 🔭 I’ve recently become a **Junior Web Developer** by learning **JavaScript, HTML5/CSS, React & Next.js**
+- 💬 Ask me about **helping you scale your company, fill your sales funnel, streamline your processes, or even build your website**
 - 📫 How to reach me: Message me on <a href="https://linkedin.com/in/mathiaslukas">LinkedIn</a>
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
-<h3>Things I am learning</h3>
+<h3>Technologies I'm familiar with:</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
