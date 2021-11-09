@@ -6,9 +6,9 @@
 </p>
 
 - 🌱 10+ years corporate background with focus on **Strategy, Project Management, Marketing, and Sales**
-- 🚀 3+ years startup experience (I've built my own but helped others grow and scale up)
+- 🚀 3+ years startup experience (Built my own & helped others grow and scale up)
 - 🔭 I’ve recently become a **Junior Web Developer** by learning **JavaScript, HTML5/CSS, React & Next.js**
-- 💬 Ask me about **helping you** scale your company, fill your sales funnel, streamline your processes, or even build your website
+- 💬 Ask me about scaling your company, filling your sales funnel, streamlining your processes, or building your website
 - 📫 How to reach me: Message me on <a href="https://linkedin.com/in/mathiaslukas">LinkedIn</a>
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
