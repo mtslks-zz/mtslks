@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Mathias</h2>
 
 
-<p>Welcome to my Github portfolio! </br> I'm Mathias, Freelance Project Manager, Consultant and Web Developer in training from Vienna, Austria.
+<p>Welcome to my Github portfolio! </br> I'm Mathias, Freelance Project Manager, Consultant and Web Developer based in **Vienna, Austria**.
 </p>
 
 - 🌱 10+ years corporate background with focus on **Strategy, Project Management, Marketing, and Sales**
