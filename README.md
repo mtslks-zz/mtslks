@@ -14,6 +14,8 @@
 
 <h3>Technologies I'm familiar with:</h3>
 <p>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-orange?style=flat-square&logo=Bootstrap&logoColor=white" />
+
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-brightgreen?style=flat-square?logo=css3&logoColor=white" />
