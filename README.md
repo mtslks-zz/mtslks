@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 10+ years corporate background with focus on **Strategy, Project Management, Marketing, and Sales**
-- 🚀 4+ years startup experience (co-founded own & helped others grow and scale up)
+- 🚀 4+ years agency & startup experience (co-founded own & helped others grow and scale up)
 - 🔭 I’ve recently become a **Web Developer** by learning **JavaScript, HTML5/CSS, React & Next.js** and other relevant technologies
 - 💬 Ask me about scaling your company, filling your sales funnel, streamlining your processes, or building your website
 - 📫 How to reach me: Message me on <a href="https://linkedin.com/in/mathiaslukas">LinkedIn</a>
